@@ -1,0 +1,11 @@
+{
+  "jsonName": " Senate Statistics",
+  "active": true,
+  "results": [
+    {
+      "numberOfDemocrats": "0",
+      "numberOfRepublicans": "0",
+      "numbersOfIndependents": "0",
+    }
+  ]
+}
